@@ -1,7 +1,7 @@
 Package: ChimpHumanBrainData
 Type: Package
 Title: Chimp and human brain data package
-Version: 1.5.0
+Version: 1.5.1
 Date: 2013-11-04
 Author: Roman Jaksik, Naomi Altman, and Sean Davis
 Maintainer: Sean Davis <sdavis2@mail.nih.gov>
@@ -10,4 +10,4 @@ Description: This data package contains chimp and human brain data extracted fro
    is a useful dataset for tutorials. 
 Depends: affy,qvalue,limma,hexbin,statmod
 License: MIT
-biocViews: ExpressionData, RNAExpressionData
+biocViews: RNASeqData, Tissue, Homo_sapiens_Data, Pan_troglodytes_Data, MicroarrayData, TissueMicroarrayData, GEO
